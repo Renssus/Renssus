@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">Placeholder</h3>
+<h3 align="center">🛠️ ToolBox</h3>
 
 ###
 
@@ -45,7 +45,19 @@
 
 ###
 
-<h3 align="center">Social</h3>
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Renssus.Renssus&left_text=Github%20Visitors"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Renssus/Renssus/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="center">💻 Socials</h3>
 
 ###
 
@@ -54,12 +66,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Renssus/Renssus/output/snake.svg" alt="Snake animation" />
 
 ###
 
